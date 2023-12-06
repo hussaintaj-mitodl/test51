@@ -1,0 +1,32 @@
+{
+  "term": "",
+  "year": "",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test51"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test51"
+  },
+  "course_title": "Testing 51",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test51"
+  },
+  "learning_resource_types": [],
+  "site_uid": "67332baf-7f38-4d9e-9b42-f73dcfe25b8f",
+  "site_short_id": "test51"
+}
